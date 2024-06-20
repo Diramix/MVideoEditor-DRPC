@@ -2,11 +2,17 @@
 
 # MVideoEditor-DRPC
 
-ᓚᘏᗢ котик ждёт твоей монетки(
-https://www.donationalerts.com/r/diramix
+### DA, DS и Boosty:
+   ᓚᘏᗢ котик ждёт твоей монетки(
+   https://www.donationalerts.com/r/diramix
+   
+   Boosty
+   https://boosty.to/diramix
+   
+   А это Discord сервер
+   https://discord.gg/ky6bcdy7KA
 
-А это Discord сервер
-https://discord.gg/ky6bcdy7KA
+### Как использовать:
 
 1.  Запустите Movavi Video Editor 2024
 
