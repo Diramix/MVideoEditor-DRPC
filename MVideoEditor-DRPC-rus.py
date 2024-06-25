@@ -1,13 +1,22 @@
 from pypresence import Presence
 import time
 import pyautogui
+import os
+
+clear = lambda: os.system('cls' if os.name=='nt' else 'clear')
 
 RPC = Presence(1243721758591418439)
 RPC.connect()
 
 TIME = time.time()
 
-print('MVideo-DRPC: Активирован')
+print('MVideoEditor-DRPC: Активирован')
+
+RPC.update(
+    state="AFK",
+    large_image="icon",
+    large_text="Movavi Video Editor",
+)
 
 while True:
     windows = pyautogui.getWindowsWithTitle("Movavi Video Editor –")
@@ -17,6 +26,10 @@ while True:
             project_name = window.title[pos + 1:]
             del_star = project_name.find('*')
             final_name = project_name[:del_star]
+            
+            clear()
+            print('MVideoEditor-DRPC: Активирован')
+            print("Монтирует –" + final_name)
         
             RPC.update(
                 state="Монтирует –" + final_name,
