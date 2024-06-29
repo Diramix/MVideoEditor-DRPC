@@ -1,5 +1,5 @@
 ![mvideo](https://github.com/Diramix/MVideoEditor-DRPC/assets/79011730/002c9747-778c-45e4-ab25-962b406c5024)
-![License](https://img.shields.io/github/license/Diramix/Spotify-Music.svg?style=for-the-badge)
+![License](https://img.shields.io/github/license/johnturner4004/readme-generator.svg?style=for-the-badge)
 ### Powered by
 <a href="https://www.python.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" height="40px" width="40px" /></a>
     
